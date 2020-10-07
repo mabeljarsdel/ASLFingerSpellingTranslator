@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29100A4625089351002087F8 /* ABDetectTest.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 29100A4525089351002087F8 /* ABDetectTest.mlmodel */; };
 		2961AA852505976E00487315 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2961AA842505976E00487315 /* AppDelegate.swift */; };
 		2961AA872505976E00487315 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2961AA862505976E00487315 /* SceneDelegate.swift */; };
 		2961AA892505976E00487315 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2961AA882505976E00487315 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		29100A4525089351002087F8 /* ABDetectTest.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ABDetectTest.mlmodel; sourceTree = "<group>"; };
 		2961AA812505976E00487315 /* Sign Translator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sign Translator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2961AA842505976E00487315 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2961AA862505976E00487315 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				2961AA842505976E00487315 /* AppDelegate.swift */,
 				2961AA862505976E00487315 /* SceneDelegate.swift */,
 				2961AA882505976E00487315 /* ViewController.swift */,
+				29100A4525089351002087F8 /* ABDetectTest.mlmodel */,
 				2961AA8A2505976E00487315 /* Main.storyboard */,
 				2961AA8D2505976F00487315 /* Assets.xcassets */,
 				2961AA8F2505976F00487315 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29100A4625089351002087F8 /* ABDetectTest.mlmodel in Sources */,
 				2961AA892505976E00487315 /* ViewController.swift in Sources */,
 				2961AA852505976E00487315 /* AppDelegate.swift in Sources */,
 				2961AA872505976E00487315 /* SceneDelegate.swift in Sources */,
